@@ -11,7 +11,7 @@
   
   body {
     font-family: 'Jost', sans-serif;
-    background-image:url(https://img.freepik.com/premium-photo/top-view-blue-calculator-notepad-color-background_260672-4055.jpg);
+    background-color: var(--gainsboro);
     color: var(--primary-color);
   }
   p {
